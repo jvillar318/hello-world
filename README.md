@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hi everyone,
+
+I'm John, I'm currently studying
+Android Basics on Udacity.
